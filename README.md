@@ -1,6 +1,6 @@
 # Boule iT Turnier v0.1
-## Schweizer System mit Buchholz-Wertung
-## Teilnehmerliste:
+### Schweizer System mit Buchholz-Wertung
+### Teilnehmerliste:
 
 |NR|NAME|VEREIN|SPIELER|
 |---|---|---|---|
@@ -10,4 +10,4 @@
 |4|Die Mueden|Letztes Spiel| Axel Schweiss / Rainer Zufall|
 |5|Besoffen|DIV|Nadiejda Hochkraczinskaya / Sie Selbst|
 
-## Freilos:
+### Freilos:

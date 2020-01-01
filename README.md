@@ -1,2 +1,3 @@
-# Some big title
-It works NOW 8888888888888888
+# Boule iT Turnier
+## Schweizer System mit Buchholz-Wertung
+## Teilnehmerliste:

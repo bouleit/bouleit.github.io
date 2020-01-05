@@ -22,8 +22,8 @@ Im Falle eines Open-Turniers unterschreiben vereinslose Spieler die Datenschutz-
 
 |NR|NAME|BAHN|ERGEBNIS|
 |---|---|---|---|
-|1|Ovale Kugel|TLDR|1|
+|1|Ovale Kugel|1|10|
 |2|Voll Daneben|1|4|
-|3|Gauner|Kugeln Weg|2|
-|5|Promille|DIV|2|
+|3|Gauner|2|2|
+|5|Promille|2|13|
 

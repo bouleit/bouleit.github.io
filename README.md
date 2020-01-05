@@ -13,3 +13,17 @@ Im Falle eines Open-Turniers unterschreiben Vereinslose Spieler die Datenschutz-
 |5|Promille|DIV|Nadiejda Biersack / Hans-Liter Zweigelt / Vodka Flaschen-Aus|
 
 ### Freilos:
+
+|NR|NAME|VEREIN|SPIELER|
+|---|---|---|---|
+|4|Die Müden|Letztes Spiel|Axel Schweiss / Rainer Zufall / Augusta Schadler|
+
+### Runde 1:
+
+|NR|NAME|BAHN|ERGEBNIS|
+|---|---|---|---|
+|1|Ovale Kugel|TLDR|1|
+|2|Voll Daneben|1|4|
+|3|Gauner|Kugeln Weg|2|
+|5|Promille|DIV|2|
+

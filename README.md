@@ -4,10 +4,10 @@
 
 |NR|NAME|VEREIN|SPIELER|
 |---|---|---|---|
-|1|Ovale Kugel|TLDR|Hund Faengt / Mietze Katze / Maus Still|
-|2|Voll Daneben|Daneben|Nicht Geschossen / N N|
-|3|Die Diebe|Kugeln Weg|Material Loos / Leni Diebstahl|
-|4|Die Mueden|Letztes Spiel| Axel Schweiss / Rainer Zufall|
-|5|Besoffen|DIV|Nadiejda Hochkraczinskaya / Sie Selbst|
+|1|Ovale Kugel|TLDR|Hundt Fängt / Mietze Katzenberger-Fängt / Mausi Still|
+|2|Voll Daneben|Sankt Weit an der Bahn|Nicht E Geschossen / Weiter von der Sau / N N Cochonnet|
+|3|Gauner|Kugeln Weg|Materialia Loos / Leni Diebenstahl / Pfui Toifl|
+|4|Die Müden|Letztes Spiel|Axel Schweiss / Rainer Zufall / Augusta Schadler|
+|5|Promille|DIV|Nadiejda Biersack / Hans-Liter Zweigelt / Vodka Flaschen-Aus|
 
 ### Freilos:

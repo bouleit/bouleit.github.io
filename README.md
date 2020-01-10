@@ -1,8 +1,5 @@
 # BOULE iT Turnier v0.1
-Durch die Verwendung des „BOULE iT Turnier Webseite“ stimmen Sie für die Dauer des Turniers zu, dass Ihre Angaben (Name, Lizenznummer, Name des Vereins) gespeichert und genutzt werden, beziehungsweise dass die Ergebnisse nach dem Turnier an den Österreichischen Pétanque Verband weitergegeben werden.
-
-
-Bei Open-Turniers unterschreiben Spieler die in ihrem Verein die Datenschutz-Erklärung (DSVGO) noch nicht unterschrieben haben, sowie vereinslose Spieler die Datenschutz-Erklärung (DSVGO) bei der Registrierung / vor dem Beginn des Turniers.
+Durch die Verwendung des „BOULE iT Turnier“ Internetseite stimmen Sie für die Dauer des Turniers zu, dass Ihre Angaben (Name, Lizenznummer, Name des Vereins) laut EU-Datenschutz-Grundverordnung (DSGVO) gespeichert und genutzt werden, beziehungsweise dass die Ergebnisse nach dem Turnier an den Österreichischen Pétanque Verband weitergegeben werden.
 ### Schweizer System mit Buchholz-Wertung
 ### Teilnehmerliste:
 

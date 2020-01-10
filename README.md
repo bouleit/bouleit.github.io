@@ -1,5 +1,5 @@
 # BOULE iT Turnier 01.01.2020
-Durch die Verwendung des „BOULE iT Turnier“ Internetseite stimmen Sie für die Dauer des Turniers zu, dass Ihre Angaben (Name, Lizenznummer, Name des Vereins) laut EU-Datenschutz-Grundverordnung (DSGVO) gespeichert und genutzt werden, beziehungsweise dass die Ergebnisse nach dem Turnier an den Österreichischen Pétanque Verband weitergegeben werden.
+Durch die Verwendung der „BOULE iT Turnier“ Internetseite stimmen Sie für die Dauer des Turniers zu, dass Ihre Angaben (Name, Lizenznummer, Name des Vereins) laut EU-Datenschutz-Grundverordnung (DSGVO) gespeichert und genutzt werden, beziehungsweise dass die Ergebnisse nach dem Turnier an den Österreichischen Pétanque Verband weitergegeben werden.
 ### Schweizer System mit Buchholz-Wertung
 ### Teilnehmerliste:
 
